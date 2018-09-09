@@ -1,6 +1,6 @@
-# DevConnector
+# TalibILM
 
-> Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
+> Platform for knowledge regarding Bachelor's study
 
 ## Quick Start
 
@@ -23,21 +23,14 @@ npm run client
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 
-You will need to create a keys_dev.js in the server config folder with
 
-```
-module.exports = {
-  mongoURI: 'YOUR_OWN_MONGO_URI',
-  secretOrKey: 'YOUR_OWN_SECRET'
-};
-```
 
 ## App Info
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Ishtiaq Bhatti 
+Muntazir Abbas
 
 ### Version
 
@@ -45,4 +38,4 @@ Brad Traversy
 
 ### License
 
-This project is licensed under the MIT License
+This project is licensed under the Bhatti Limited Company
