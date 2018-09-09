@@ -30,7 +30,7 @@ npm run client
 ### Author
 
 Ishtiaq Bhatti 
-Muntazir Abbas
+
 
 ### Version
 
